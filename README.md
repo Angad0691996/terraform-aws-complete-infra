@@ -12,7 +12,7 @@
 
 A visual representation of the resource relationships is available in `graph.png`:
 ![Infrastructure Graph](graph.png)
-
+![Infrastructure Overview](images/infra_overview.jpeg)
 ## 🚀 Getting Started
 
 ### Prerequisites
